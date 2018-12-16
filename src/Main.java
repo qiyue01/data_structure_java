@@ -9,7 +9,6 @@ public class Main {
     public static PrintWriter out = new PrintWriter(new OutputStreamWriter(System.out));
     public static void main(String[] args)
     {
-        int n,q;
 
         out.flush();
         out.close();
